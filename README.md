@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Đức (Tou Đức)
+# 👋 Hi, I'm Duc (Zen)
+
 
 🎓 **Freshman** at **University of Information Technology - Vietnam National University**  
-💡 Passionate about **Artificial Intelligence, Computer Vision, and Competitive Programming**  
-🚀 My goal is to become a **top figure in AI**
+💡 Passionate about **Artificial Intelligence**, and **Competitive Programming**  
+
 
 ---
 
@@ -31,8 +32,6 @@ OpenCV, YOLO, Git
 ## 📚 What I’m Working On
 
 - 🧩 Building an **AI module for object detection** using YOLOv11and fine-tuned datasets for Vietnamese scenary. 
-- 
-
 ---
 
 
