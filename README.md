@@ -30,8 +30,6 @@ OpenCV, YOLO, Git
 ---
 
 ## 📚 What I’m Working On
-
-- 🧩 Building an **AI module for object detection** using YOLOv11 and fine-tuned datasets for Vietnamese scenary.
 ---
 
 
